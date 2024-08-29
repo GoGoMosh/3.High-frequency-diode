@@ -18,7 +18,7 @@
 
 ## Документация
 
-В PDF файле представлена вся теория и код
+В PDF файле представлена вся теория, мат. часть и код
 
 [PDF файл](https://drive.google.com/file/d/19xkWWhfDSkTeRAaQwieP1nJoLwbuofPZ/view?usp=sharing)
 
